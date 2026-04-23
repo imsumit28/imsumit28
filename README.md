@@ -29,28 +29,28 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 
 I'm a **Full Stack Developer** from **India** with a passion for crafting seamless, scalable web experiences from frontend to backend. I thrive at the intersection of clean UI design and robust backend architecture — turning complex problems into elegant digital solutions.
 
 Currently building **DevConnect**, a platform designed to bridge the gap between developers worldwide — enabling them to collaborate, share knowledge, and grow together in a thriving tech community.
 
-- 🔭 Currently working on **[DevConnect](https://github.com/imsumit28/devconnect)** — A developer collaboration platform
-- 🌱 Deepening expertise in **System Design**
-- 💡 Believer in: *"Write code that humans can read, not just machines"*
-- 📫 Reach me at: **ersumitkumar45@gmail.com**
-- ⚡ Fun fact: I debug with `console.log` and I'm not ashamed 😄
+-  Currently working on **[DevConnect](https://github.com/imsumit28/devconnect)** — A developer collaboration platform
+-  Deepening expertise in **System Design**
+-  Believer in: *"Write code that humans can read, not just machines"*
+-  Reach me at: **ersumitkumar45@gmail.com**
+-  Fun fact: I debug with `console.log` and I'm not ashamed 😄
 
 ---
 
-## 🚀 What I'm Building
+##  What I'm Building
 
 <div align="center">
 
-| 🏗️ Project | 📝 Description | 🛠️ Stack | 🔗 Status |
+|  Project |  Description |  Stack |  Status |
 |:---|:---|:---|:---:|
-| **DevConnect** | A social platform for developers to network, collaborate on projects, share resources, and grow together as a community | React, Node.js, MongoDB, Socket.io | 🟡 In Progress |
+| **DevConnect** | A social platform for developers to network, collaborate on projects, share resources, and grow together as a community | React, Node.js, MongoDB, Socket.io |  In Progress |
 | **Portfolio v2** | A revamped personal portfolio showcasing projects, blogs, and open source contributions | Next.js, Tailwind CSS | 🟢 Live |
 
 </div>
@@ -61,7 +61,7 @@ Currently building **DevConnect**, a platform designed to bridge the gap between
 
 <div align="center">
 
-### 🎨 Frontend
+###  Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -75,7 +75,7 @@ Currently building **DevConnect**, a platform designed to bridge the gap between
   <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white"/>
 </p>
 
-### ⚙️ Backend
+###  Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -84,14 +84,14 @@ Currently building **DevConnect**, a platform designed to bridge the gap between
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
 </p>
 
-### 🗄️ Databases & Cloud
+###  Databases & Cloud
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
-### 🧰 Dev Tools & Others
+###  Dev Tools & Others
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -105,7 +105,7 @@ Currently building **DevConnect**, a platform designed to bridge the gap between
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -120,7 +120,7 @@ Currently building **DevConnect**, a platform designed to bridge the gap between
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imsumit28&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph"/>
@@ -128,7 +128,7 @@ Currently building **DevConnect**, a platform designed to bridge the gap between
 
 ---
 
-## 🎓 Education & Certifications
+##  Education & Certifications
 
 <div align="center">
 
@@ -141,7 +141,7 @@ Currently building **DevConnect**, a platform designed to bridge the gap between
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=imsumit28&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
@@ -149,7 +149,7 @@ Currently building **DevConnect**, a platform designed to bridge the gap between
 
 ---
 
-## 💡 Dev Quote of the Day
+##  Dev Quote of the Day
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
@@ -157,7 +157,7 @@ Currently building **DevConnect**, a platform designed to bridge the gap between
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+##  Let's Connect & Collaborate
 
 <div align="center">
 
@@ -187,9 +187,9 @@ I'm always open to interesting conversations and collaboration opportunities. Wh
 
 <div align="center">
 
-### 💬 *"Write code that humans can read, not just machines."*
+###  *"Write code that humans can read, not just machines."*
 
-**⭐ If you find my work helpful, consider giving a star to my repos!**
+** If you find my work helpful, consider giving a star to my repos!**
 
 *Last updated: 2026 · (https://github.com/imsumit28)*
 
