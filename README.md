@@ -1,7 +1,7 @@
 <div align="center">
 
 # Sumit Kumar
-### Full Stack Developer · Problem Solver · Builder
+### Full Stack Developer · Problem Solver 
 
 <!-- SOCIAL BADGES -->
 <a href="https://www.linkedin.com/in/imsumit45/" target="_blank">
