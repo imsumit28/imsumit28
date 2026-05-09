@@ -12,27 +12,26 @@
 Full Stack Developer focused on building scalable web applications with strong backend architecture, real-time systems, and production-oriented engineering practices.
 
 ### Current Focus
-- Scalable backend systems
-- Real-time communication architecture
-- Caching & queue-based systems
-- System design fundamentals
-- Performance optimization
+- Data Structures & Algorithms
+- System Design fundamentals
+- Distributed systems concepts
+- Scalable backend architectures
 
 ---
 
 # Featured Projects
 
-## Curlix — Scalable URL Shortener Platform *(Currently Building)*
+## [Curlix](https://curlix.vercel.app) — Scalable URL Shortener Platform
 
-Engineering-focused URL shortening platform inspired by production-scale systems like Bitly.
+Engineering-focused URL shortening platform built for production. Anonymous link ownership with no accounts, sub-10ms redirects via a Redis-first hot path, and async analytics through a BullMQ queue.
 
 ### Core Engineering Features
 - Redis-first redirect architecture for ultra-fast lookups
 - Queue-based analytics processing using BullMQ
 - Async event handling for non-blocking redirects
-- Anonymous ownership system without traditional authentication
-- Rate limiting, abuse prevention, and caching strategies
-- Designed entirely on a 100% free scalable infrastructure stack
+- Anonymous ownership system via bearer tokens — no accounts, no sessions
+- Rate limiting, abuse prevention, and SSRF-safe URL validation
+- 100% free infrastructure stack
 
 ### Architecture & Stack
 `React` · `Node.js` · `Express` · `PostgreSQL` · `Supabase` · `Redis` · `BullMQ` · `Upstash` · `Vercel` · `Render`
@@ -41,7 +40,7 @@ Engineering-focused URL shortening platform inspired by production-scale systems
 
 ## [CollabDocs](https://github.com/imsumit28/collabdocs) — Real-Time Collaborative Editor
 
-🌐 Live: https://collabdocs2026.vercel.app
+Live: https://collabdocs2026.vercel.app
 
 ### Engineering Highlights
 - Built real-time collaborative editing using Socket.io
@@ -69,7 +68,7 @@ Engineering-focused URL shortening platform inspired by production-scale systems
 
 ## [DevConnect](https://github.com/imsumit28/devconnect) — Developer Social Platform
 
-🌐 Live: https://devconnect2026.vercel.app
+Live: https://devconnect2026.vercel.app
 
 ### Engineering Highlights
 - Developed authentication and profile management system
@@ -102,12 +101,13 @@ Engineering-focused URL shortening platform inspired by production-scale systems
 
 ### B.Tech in Computer Science  
 Vellore Institute of Technology *(2024 – 2028)*
+Applied Machine Learning in Python(Coursera) - University Of Michigan *(2025)*
 
 ---
 
-# Current Focus
+# Currently Learning
 
-- Designing scalable backend architectures
-- Learning distributed systems fundamentals
-- Building production-grade full stack applications
-- Improving system design and infrastructure knowledge
+- Data Structures & Algorithms
+- System Design and distributed systems
+- Low-level design patterns
+- Performance engineering and scalability
