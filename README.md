@@ -1,7 +1,7 @@
 # Sumit Kumar
 ### Full Stack Developer · Backend & Real-Time Systems
 
-📍 India  
+ India  
  [LinkedIn](https://www.linkedin.com/in/imsumit45/)  
  ersumitkumar45@gmail.com  
 
