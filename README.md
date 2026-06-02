@@ -2,7 +2,7 @@
 
 **Sumit Kumar**  
 **Full Stack Developer · Backend & Real-Time Systems**
-
+ 
 India  
 LinkedIn: [imsumit45](https://www.linkedin.com/in/imsumit45/)  
 Email: ersumitkumar45@gmail.com
