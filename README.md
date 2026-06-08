@@ -1,6 +1,6 @@
 # $ whoami
 
-**Sumit Kumar**  
+**Sumit Kumar**
 **Full Stack Developer · Backend & Real-Time Systems**
  
 India  
